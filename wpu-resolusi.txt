@@ -2,3 +2,5 @@ WPU RESOLUSI
 -  Konsisten membuat web
 -  Belajar Front page
 -  Belajar Back end
+-  Belajar React Native
+-  Belajar Semua Programing Lebih dalam
