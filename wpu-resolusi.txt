@@ -1,7 +1,8 @@
 WPU RESOLUSI
 -  Konsisten membuat web
 -  Belajar Front page
+-  Angular
 -  Belajar React Native
 -  Belajar Semua Programing Lebih dalam
 -  Belajar Konsisten
--  Data Struktur dan Algoritma
+-  Laravel
