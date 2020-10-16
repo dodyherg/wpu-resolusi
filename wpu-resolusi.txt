@@ -4,3 +4,4 @@ WPU RESOLUSI
 -  Belajar React Native
 -  Belajar Semua Programing Lebih dalam
 -  Belajar Konsisten
+-  Data Struktur dan Algoritma
